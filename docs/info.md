@@ -13,8 +13,9 @@ This is how it works
 
 ## How to test
 
-Explain how to use your project
+This is how to test
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+This is the requirements
+
